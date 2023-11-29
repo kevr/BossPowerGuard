@@ -1,0 +1,9 @@
+{
+    "name": "BossPowerGuard",
+    "version_number": "1.0.5",
+    "website_url": "https://discord.gg/n2ZyrtcFQy",
+    "description": "Reset boss keys and stop players from using boss powers before killing the boss",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2202"
+    ]
+}
