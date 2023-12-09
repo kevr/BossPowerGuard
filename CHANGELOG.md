@@ -1,4 +1,7 @@
 ## Changelog
+### 1.0.6
+- Added Buy Me A Coffee info to README
+
 ### 1.0.5
 - Fix issue when damage taken by non-players
 

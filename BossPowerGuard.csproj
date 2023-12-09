@@ -4,7 +4,7 @@
     <TargetFramework>net461</TargetFramework>
     <AssemblyName>BossPowerGuard</AssemblyName>
     <Description>Stop players from grabbing boss powers without defeating them and resets global keys.</Description>
-    <Version>1.0.0</Version>
+    <Version>1.0.6</Version>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <LangVersion>latest</LangVersion>
   </PropertyGroup>

@@ -14,3 +14,9 @@ boss powers behind the player killing that boss.
 Warheim server & community discord: https://discord.gg/n2ZyrtcFQy
 
 Come apply to get whitelisted!
+
+## Donations
+
+I spend most of my time these days playing and modding Valheim. Any donations are greatly appreciated and can be given through my [Buy Me A Coffee](https://www.buymeacoffee.com/kevver) page.
+
+Thanks to all of those who support my work! This kind of support gives me more ability to work on mods with my time :)

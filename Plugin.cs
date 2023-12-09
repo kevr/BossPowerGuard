@@ -14,7 +14,7 @@ namespace BossPowerGuard
         public const string NAME = "BossPowerGuard";
         public const string AUTHOR = "Kevver";
         public const string GUID = $"{AUTHOR}.{NAME}";
-        public const string VERSION = "1.0.5";
+        public const string VERSION = "1.0.6";
 
         private readonly Harmony harmony = new(NAME);
 
